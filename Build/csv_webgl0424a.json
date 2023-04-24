@@ -1,0 +1,15 @@
+{
+"companyName": "JYC",
+"productName": "csv_webgl0424a",
+"productVersion": "1.0",
+"dataUrl": "csv_webgl0424a.data.unityweb",
+"wasmCodeUrl": "csv_webgl0424a.wasm.code.unityweb",
+"wasmFrameworkUrl": "csv_webgl0424a.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.38f1"
+}
